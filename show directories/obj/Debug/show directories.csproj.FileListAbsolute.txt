@@ -1,0 +1,21 @@
+D:\works\c#\windosform\show directories\show directories\bin\Debug\show directories.exe.config
+D:\works\c#\windosform\show directories\show directories\obj\Debug\show directories.csprojResolveAssemblyReference.cache
+D:\works\c#\windosform\show directories\show directories\obj\Debug\show_directories.Form1.resources
+D:\works\c#\windosform\show directories\show directories\obj\Debug\show_directories.Properties.Resources.resources
+D:\works\c#\windosform\show directories\show directories\obj\Debug\show directories.csproj.GenerateResource.Cache
+D:\works\c#\windosform\show directories\show directories\bin\Debug\show directories.exe
+D:\works\c#\windosform\show directories\show directories\bin\Debug\show directories.pdb
+D:\works\c#\windosform\show directories\show directories\obj\Debug\show directories.exe
+D:\works\c#\windosform\show directories\show directories\obj\Debug\show directories.pdb
+D:\works\c#\windosform\show directories\show directories\bin\Debug\Interop.WMPLib.dll
+D:\works\c#\windosform\show directories\show directories\bin\Debug\AxInterop.WMPLib.dll
+D:\works\c#\windosform\show directories\show directories\obj\Debug\Interop.WMPLib.dll
+D:\works\c#\windosform\show directories\show directories\obj\Debug\AxInterop.WMPLib.dll
+D:\works\c#\windosform\show directories\show directories\obj\Debug\show directories.csproj.ResolveComReference.cache
+D:\works\c#\windosform\show directories\show directories\bin\Debug\ExifLib.dll
+D:\works\c#\windosform\file explorer\show directories\bin\Debug\show directories.exe.config
+D:\works\c#\windosform\file explorer\show directories\obj\Debug\Interop.WMPLib.dll
+D:\works\c#\windosform\file explorer\show directories\obj\Debug\AxInterop.WMPLib.dll
+D:\works\c#\windosform\file explorer\show directories\obj\Debug\show directories.csproj.ResolveComReference.cache
+D:\works\c#\windosform\file explorer\show directories\obj\Debug\show directories.exe
+D:\works\c#\windosform\file explorer\show directories\obj\Debug\show directories.pdb
